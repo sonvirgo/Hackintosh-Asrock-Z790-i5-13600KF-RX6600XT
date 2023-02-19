@@ -68,6 +68,7 @@ Almost every thing works OOB
 
 The client is so interested in the build that he is going to ask me to puts macos on his laptop.
 
-[MEDIA=youtube]Xbfd8ySwgjs[/MEDIA]
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Xbfd8ySwgjs/0.jpg)](http://www.youtube.com/watch?v=Xbfd8ySwgjs "Hackintosh Asrock Z790 i5 13600KF ")
+
 
 Thanks to all of you!

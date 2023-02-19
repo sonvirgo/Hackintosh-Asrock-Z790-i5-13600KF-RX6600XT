@@ -2,9 +2,10 @@
 Hackintosh Raptor Lake
 Dual boot Win 10 and Monterey on Asrock Z790 Pro+i5 13600KF+R6600XT
 
+![image](https://user-images.githubusercontent.com/10823037/219975795-d004adbf-d5dd-4be1-b43b-4c84bc786581.png)
 
 
-IMG_20230220_024153.jpg
+
 
 I recommend a client to select the right components and I install Monterey to the rig.
 
@@ -26,7 +27,8 @@ Storage WD 512 Gb nvme (I recommend to swich from Gammix 512GB in afraid of MN-5
 
 Dual monitor (Possible triple with case's Full HD LCD but running out of DP cable)
 
-IMG_20230220_025746.jpg
+
+![image](https://user-images.githubusercontent.com/10823037/219975847-438ace53-0433-4aba-897c-7597d666a89a.png)
 
 
 
@@ -36,7 +38,8 @@ Note
 
 The LED controler is connected to HS 13 so shoukd be disabled by an USBmap kext. We encounter a minor confusing issue when the case' fan is connected to the same hub of the LED control, instead of Psu. This is the mistake of the hardware supplier. Which lead to hardware failure on the hub.
 
-downloadfile_1676835436658.jpg
+
+![image](https://user-images.githubusercontent.com/10823037/219975881-38c5b112-af37-4fa6-8436-68d61298edcc.png)
 
 
 
@@ -52,7 +55,8 @@ Cpu name is unknown so I put in i9 13900K as a cosmetic.
 
 Dual boot windows 10
 
-IMG_20230219_130008.jpg
+![image](https://user-images.githubusercontent.com/10823037/219975907-3d279501-a27c-4147-b1fa-a6118a931ec4.png)
+
 
 
 

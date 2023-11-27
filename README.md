@@ -1,4 +1,4 @@
-# Hackintosh-Asrock-Z790-i513600KF
+# Hackintosh-Asrock-Z790-i5-13600KF
 Hackintosh Raptor Lake
 Dual boot Win 10 and Monterey on Asrock Z790 Pro+i5 13600KF+R6600XT
 
